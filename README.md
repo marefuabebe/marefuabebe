@@ -75,12 +75,8 @@ fun_fact: I turn complex problems into elegant digital experiences ✨
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=marefuabebe&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=marefuabebe&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
-
-> 💡 If the trophies don't render, the shared instance is likely overloaded — swap the domain above for one of these volunteer mirrors: `github-profile-trophy-liard-delta.vercel.app`, `github-profile-trophy-fork-two.vercel.app`, or `github-profile-trophy-kannan.vercel.app`.
-
-<br/>
 
 ## 🐍 Contribution Snake
 
