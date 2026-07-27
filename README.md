@@ -59,10 +59,10 @@ fun_fact: I turn complex problems into elegant digital experiences ✨
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=marefuabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marefuabebe&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=marefuabebe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marefuabebe&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marefuabebe&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=marefuabebe&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -77,6 +77,8 @@ fun_fact: I turn complex problems into elegant digital experiences ✨
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=marefuabebe&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
+
+> 💡 If the trophies don't render, the shared instance is likely overloaded — swap the domain above for one of these volunteer mirrors: `github-profile-trophy-liard-delta.vercel.app`, `github-profile-trophy-fork-two.vercel.app`, or `github-profile-trophy-kannan.vercel.app`.
 
 <br/>
 
