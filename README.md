@@ -38,7 +38,7 @@ fun_fact: I turn complex problems into elegant digital experiences ✨
   - ⚙️ **Backend API** (Node.js/Express on Render)
 - 🌱 I’m currently diving deeper into **Advanced Full Stack Architecture & AI Integration**.
 - 💬 Ask me about **React, Next.js, Node.js, and MongoDB**.
-- 📫 How to reach me: **marefuabebe@gmail.com**
+- 📫 How to reach me: **abebemarefu266@gmail.com**
 ---
 ### 🛠️ My Tech Stack
 **Frontend**  
