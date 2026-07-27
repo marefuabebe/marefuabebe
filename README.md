@@ -32,7 +32,19 @@ learning: Advanced Full Stack Architecture & AI Integration
 ask_me_about: [React, Next.js, Node.js, MongoDB, System Design]
 fun_fact: I turn complex problems into elegant digital experiences ✨
 ```
-
+ 🔭 I’m the creator of **Kambaata Travel**, a full-stack platform for Ethiopian cultural tourism. Check it out live:
+  - 🌍 **[Customer Website](https://kambata-travel-frontend.vercel.app)** (Next.js)
+  - 💼 **[Admin Portal](https://kambata-travel-admin-portal-omega.vercel.app)** (Next.js Dashboard)
+  - ⚙️ **Backend API** (Node.js/Express on Render)
+- 🌱 I’m currently diving deeper into **Advanced Full Stack Architecture & AI Integration**.
+- 💬 Ask me about **React, Next.js, Node.js, and MongoDB**.
+- 📫 How to reach me: **marefuabebe@gmail.com**
+---
+### 🛠️ My Tech Stack
+**Frontend**  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br/>
 
 ## 🛠️ Tech Stack
