@@ -104,14 +104,14 @@ fun_fact: I turn complex problems into elegant digital experiences ✨
 <table>
   <tr>
     <td width="50%">
-      <h3>🌍 Kambaata Travel</h3>
+      <h3>🌍 Kambata Travel</h3>
       <p>A modern Next.js + MongoDB tourism marketplace connecting travelers with guides across Ethiopia, with JWT auth, booking flows, and Chapa payment integration.</p>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
     </td>
     <td width="50%">
-      <h3>📖 Storyloom</h3>
+      <h3>📖storytelling </h3>
       <p>A children's fantasy storytelling YouTube brand — from logo design to full channel identity and content strategy.</p>
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
       <img src="https://img.shields.io/badge/Branding-8A2BE2?style=flat-square"/>
