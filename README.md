@@ -26,7 +26,7 @@ name: Marefu Abebe
 location: Ethiopia 🇪🇹
 role: Software Engineering Student @ Wachemo University
 focus: Full Stack Development & AI Integration
-currently_building: Kambaata Travel — Ethiopian cultural tourism platform
+currently_building: Kambata Travel — Ethiopian cultural tourism platform
 learning: Advanced Full Stack Architecture & AI Integration
 ask_me_about: [React, Next.js, Node.js, MongoDB, System Design]
 fun_fact: I turn complex problems into elegant digital experiences ✨
